@@ -2,19 +2,19 @@ theme: jekyll-theme-midnight
 title: Welcome to TotallyNotARobot404's capstone homepage!
 description: This is a website dedicated to the collection of everything TotallyNotARobot404 has done throughout their SNHU computer science career!
 
-## Professional Self-Assessment
+header 2: Professional Self-Assessment
 
-## Code Review
+header 2: Code Review
 
-## Artifact 1
+header 2: Artifact 1
 
-### Narrative 1
+header 3: Narrative 1
 
-## Artifact 2
+header 2: Artifact 2
 
-### Narrative 2
+header 3: Narrative 2
 
-## Artifact 3
+header 2: Artifact 3
 
-### Narrative 3
+header 3: Narrative 3
 
