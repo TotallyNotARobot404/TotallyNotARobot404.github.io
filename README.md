@@ -4,6 +4,31 @@ You can use the [editor on GitHub](https://github.com/TotallyNotARobot404/Totall
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Professional Self-Assessment
+A self reflection for everything that I have done throughout my time here at SNHU.
+
+## Code Review
+A code review of what I have done before working on each of the artifacts.
+
+## Artifact 1
+Software Design and Engineering Artifact
+
+### Narrative 1
+Software Design and Engineering Narrative
+
+## Artifact 2
+Algorithms and Data Structure Artifact
+
+### Narrative 2
+Algorithms and Data Structure Narrative
+
+## Artifact 3
+Databases Artifact
+
+### Narrative 3
+Databases Narrative
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
