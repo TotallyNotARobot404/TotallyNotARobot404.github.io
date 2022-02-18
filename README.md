@@ -9,9 +9,16 @@ A self reflection for everything that I have done throughout my time here at SNH
 
 ## Code Review
 A code review of what I have done before working on each of the artifacts.
+Of which it can be viewed here at [Code Review](https://youtu.be/I-Xk2y7VZHE)
 
 ## Artifact 1
 Software Design and Engineering Artifact
+
+#### Before
+Software Design and Engineering Artifact Before
+
+#### After
+Software Design and Engineering Artifact After
 
 ### Narrative 1
 Software Design and Engineering Narrative
@@ -19,44 +26,23 @@ Software Design and Engineering Narrative
 ## Artifact 2
 Algorithms and Data Structure Artifact
 
+#### Before
+Algorithms and Data Structure Artifact Before
+
+#### After
+Algorithms and Data Structure Artifact After
+
 ### Narrative 2
 Algorithms and Data Structure Narrative
 
 ## Artifact 3
 Databases Artifact
 
+#### Before
+Databases Artifact Before
+
+#### After
+[Databases Artifact After](sqlscript.sql)
+
 ### Narrative 3
 Databases Narrative
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
