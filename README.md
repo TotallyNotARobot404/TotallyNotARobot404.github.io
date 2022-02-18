@@ -18,7 +18,7 @@ Software Design and Engineering Artifact Before
 Software Design and Engineering Artifact After
 
 ### Narrative 1
-[Software Design and Engineering Narrative](Artifact 1 Narrative.docx)
+[Software Design and Engineering Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%201%20Narrative.docx)
 
 ## Artifact 2
 Algorithms and Data Structure Artifact
