@@ -12,36 +12,34 @@ Of which it can be viewed here at [Code Review.](https://youtu.be/I-Xk2y7VZHE)
 Software Design and Engineering Artifact
 
 #### Before
-Software Design and Engineering Artifact Before
+Software Design and Engineering Artifact [Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Former%20Artifact%201)
 
 #### After
-Software Design and Engineering Artifact After
+Software Design and Engineering Artifact [After](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Artifact%201)
 
 ### Narrative 1
-[Software Design and Engineering Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%201%20Narrative.docx)
+Software Design and Engineering [Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%201/Artifact%201%20Narrative.docx)
 
 ## Artifact 2
 Algorithms and Data Structure Artifact
 
 #### Before
-[Algorithms and Data Structure Artifact Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Former%20Artifact%202.zip)
+Algorithms and Data Structure Artifact [Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Former%20Artifact%202)
 
 #### After
-[Algorithms and Data Structure Artifact After](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%202.zip)
+Algorithms and Data Structure Artifact [After](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Artifact%202)
 
 ### Narrative 2
-[Algorithms and Data Structure Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%202%20Narrative.docx)
+Algorithms and Data Structure [Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%202/Artifact%202%20Narrative.docx)
 
 ## Artifact 3
 Databases Artifact
 
 #### Before
-[Databases Artifact Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Database%20Code.txt)
-
-[Documentation of Artifact](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/DAD%20220%20Database%20Documentation%20Template%20-%20Pease.docx)
+Databases Artifact [Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Former%20Artifact%203)
 
 #### After
-[Databases Artifact After](sqlscript.sql)
+Databases Artifact [After](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/tree/main/Artifact%203)
 
 ### Narrative 3
-[Databases Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%203%20Narrative.docx)
+Databases [Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%203/Artifact%203%20Narrative.docx)
