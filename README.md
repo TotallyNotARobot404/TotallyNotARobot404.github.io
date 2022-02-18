@@ -36,7 +36,7 @@ Algorithms and Data Structure Artifact
 Databases Artifact
 
 #### Before
-[Databases Artifact Before](Database Code.txt)
+[Databases Artifact Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Database%20Code.txt)
 
 [Documentation of Artifact after](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/DAD%20220%20Database%20Documentation%20Template%20-%20Pease.docx)
 
