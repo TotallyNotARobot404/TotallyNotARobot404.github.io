@@ -1,11 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Professional Self-Assessment
 A self reflection for everything that I have done throughout my time here at SNHU.
+
+[Professional Self-Assessment](Professional Self-Assessment.docx)
 
 ## Code Review
 A code review of what I have done before working on each of the artifacts.
@@ -22,7 +18,7 @@ Software Design and Engineering Artifact Before
 Software Design and Engineering Artifact After
 
 ### Narrative 1
-Software Design and Engineering Narrative
+[Software Design and Engineering Narrative](Artifact 1 Narrative.docx)
 
 ## Artifact 2
 Algorithms and Data Structure Artifact
@@ -34,16 +30,17 @@ Algorithms and Data Structure Artifact Before
 Algorithms and Data Structure Artifact After
 
 ### Narrative 2
-Algorithms and Data Structure Narrative
+[Algorithms and Data Structure Narrative](Artifact 2 Narrative.docx)
 
 ## Artifact 3
 Databases Artifact
 
 #### Before
-Databases Artifact Before
+[Databases Artifact Before](Database Code.txt)
+[Documentation of Artifact](DAD 220 Database Documentation Template - Pease.docx)
 
 #### After
 [Databases Artifact After](sqlscript.sql)
 
 ### Narrative 3
-Databases Narrative
+[Databases Narrative](Artifact 3 Narrative.docx)
