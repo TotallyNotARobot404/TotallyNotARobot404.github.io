@@ -9,7 +9,8 @@ A self reflection for everything that I have done throughout my time here at SNH
 
 ## Code Review
 A code review of what I have done before working on each of the artifacts.
-Of which it can be viewed here at [Code Review](https://youtu.be/I-Xk2y7VZHE)
+
+Of which it can be viewed here at [Code Review.](https://youtu.be/I-Xk2y7VZHE)
 
 ## Artifact 1
 Software Design and Engineering Artifact
