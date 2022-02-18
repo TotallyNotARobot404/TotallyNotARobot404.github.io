@@ -1,7 +1,7 @@
 ## Professional Self-Assessment
 A self reflection for everything that I have done throughout my time here at SNHU.
 
-[Professional Self-Assessment](Professional Self-Assessment.docx)
+[Professional Self-Assessment](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Professional%20Self-Assessment.docx)
 
 ## Code Review
 A code review of what I have done before working on each of the artifacts.
@@ -24,23 +24,23 @@ Software Design and Engineering Artifact After
 Algorithms and Data Structure Artifact
 
 #### Before
-Algorithms and Data Structure Artifact Before
+[Algorithms and Data Structure Artifact Before](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Former%20Artifact%202.zip)
 
 #### After
-Algorithms and Data Structure Artifact After
+[Algorithms and Data Structure Artifact After](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%202.zip)
 
 ### Narrative 2
-[Algorithms and Data Structure Narrative](Artifact 2 Narrative.docx)
+[Algorithms and Data Structure Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%202%20Narrative.docx)
 
 ## Artifact 3
 Databases Artifact
 
 #### Before
 [Databases Artifact Before](Database Code.txt)
-[Documentation of Artifact](DAD 220 Database Documentation Template - Pease.docx)
+[Documentation of Artifact](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/DAD%20220%20Database%20Documentation%20Template%20-%20Pease.docx)
 
 #### After
 [Databases Artifact After](sqlscript.sql)
 
 ### Narrative 3
-[Databases Narrative](Artifact 3 Narrative.docx)
+[Databases Narrative](https://github.com/TotallyNotARobot404/TotallyNotARobot404.github.io/blob/main/Artifact%203%20Narrative.docx)
