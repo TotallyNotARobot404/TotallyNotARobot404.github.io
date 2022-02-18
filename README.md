@@ -41,8 +41,9 @@ Databases Artifact
 #### Before
 Databases Artifact Before
 
+
 #### After
-Databases Artifact After
+[Databases Artifact After](sqlscript.sql)
 
 ### Narrative 3
 Databases Narrative
